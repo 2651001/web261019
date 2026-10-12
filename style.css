@@ -1,14 +1,18 @@
  body {
-         {
-         background: linear-gradient(135deg, #14 1e30, #243b55);
-         min-height: 100vh;
-         box-sizing: border-box;
-         margin: 0;
-         padding: 40px;
-         font-family: "Noto Sans KR", Gowun Dodum;
-     }
-    
+     background: linear-gradient(135deg, #141e30, #243b55);
+     min-height: 100vh;
+     box-sizing: border-box;
+     margin: 0;
+     padding: 40px;
+     font-family: "Noto Sans KR", Gowun Dodum;
+
  }
+
+ h1,
+ footer {
+     color: #fff;
+ }
+
 
  .card {
      width: 260px;
@@ -45,7 +49,7 @@
      right: 12px;
      background: #ffc107;
      color: #222;
-     padding: 4px 10p x;
+     padding: 4px 10px;
      border-radius: 999px;
      font-weight: bold;
  }
