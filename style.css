@@ -33,7 +33,7 @@ nav a {
 
 .hero {
   /* 쉼표 앞의 linear-gradient는 글자가 잘 보이도록 어둡게 덮어주는 막입니다 */
-  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("https://image.tmdb.org/t/p/w1280/여기에_TMDB_backdrop_path");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIHViFqANkAFkAKTW4jObcs4MzBVeBQFJVSnA-Bkd74w&s=10");
   background-size: cover;
   background-position: center;
   min-height: 40vh;
